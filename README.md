@@ -16,7 +16,7 @@ You can use this library for non-comercial projects. Because the images in this 
 ```
 
 ## List of all Pokémons
-`.pokemon-*` replace `*` with the number of the pokémon. **Notice:** At this moment the library shown here only contains GEN-1 Pokémons, which is equal to the Pokémon Go game.
+`.pokemon-*` replace `*` with the number of the pokémon. **Notice:** At this moment the library shown here only contains GEN-1 Pokémons (from #1 up to #151), which is equal to the Pokémon Go game.
 
 **Example:**
 ```
