@@ -1,0 +1,37 @@
+@for $i from 1 through 151 {
+  .pogo.pokemon-#{$i}
+  {
+    background-image:url(../img/#{$i}.png);
+  }
+  .pogo.pokemon-#{$i}.mask, .pogo.pokemon-#{$i}.shadow
+  {
+    -webkit-mask: url(../img/#{$i}.png) center center;
+    -webkit-mask-size:contain;
+    -webkit-mask-repeat: no-repeat;
+    background-color:rgba(0,0,0,0.25);
+  }
+}
+//mask-border: url(../img/#{$i}.png);
+
+.pogo.mask, .pogo.shadow{
+  background-image:none;
+}
+.pogo{
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+  width: 64px;
+  height: 64px;
+}
+
+
+
+$sizes: (xs:16, s:32, m:64, l:128, xl:256, xxl:512);
+
+@each $key, $size in $sizes{
+.pogo-#{$key}{
+  width: #{$size}px;
+  height: #{$size}px;
+}
+
+}

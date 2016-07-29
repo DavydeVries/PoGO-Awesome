@@ -1,3 +1,1394 @@
+.pogo.pokemon-1 {
+  background-image: url(../img/1.png); }
 
+.pogo.pokemon-1.mask, .pogo.pokemon-1.shadow {
+  -webkit-mask: url(../img/1.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-2 {
+  background-image: url(../img/2.png); }
+
+.pogo.pokemon-2.mask, .pogo.pokemon-2.shadow {
+  -webkit-mask: url(../img/2.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-3 {
+  background-image: url(../img/3.png); }
+
+.pogo.pokemon-3.mask, .pogo.pokemon-3.shadow {
+  -webkit-mask: url(../img/3.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-4 {
+  background-image: url(../img/4.png); }
+
+.pogo.pokemon-4.mask, .pogo.pokemon-4.shadow {
+  -webkit-mask: url(../img/4.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-5 {
+  background-image: url(../img/5.png); }
+
+.pogo.pokemon-5.mask, .pogo.pokemon-5.shadow {
+  -webkit-mask: url(../img/5.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-6 {
+  background-image: url(../img/6.png); }
+
+.pogo.pokemon-6.mask, .pogo.pokemon-6.shadow {
+  -webkit-mask: url(../img/6.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-7 {
+  background-image: url(../img/7.png); }
+
+.pogo.pokemon-7.mask, .pogo.pokemon-7.shadow {
+  -webkit-mask: url(../img/7.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-8 {
+  background-image: url(../img/8.png); }
+
+.pogo.pokemon-8.mask, .pogo.pokemon-8.shadow {
+  -webkit-mask: url(../img/8.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-9 {
+  background-image: url(../img/9.png); }
+
+.pogo.pokemon-9.mask, .pogo.pokemon-9.shadow {
+  -webkit-mask: url(../img/9.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-10 {
+  background-image: url(../img/10.png); }
+
+.pogo.pokemon-10.mask, .pogo.pokemon-10.shadow {
+  -webkit-mask: url(../img/10.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-11 {
+  background-image: url(../img/11.png); }
+
+.pogo.pokemon-11.mask, .pogo.pokemon-11.shadow {
+  -webkit-mask: url(../img/11.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-12 {
+  background-image: url(../img/12.png); }
+
+.pogo.pokemon-12.mask, .pogo.pokemon-12.shadow {
+  -webkit-mask: url(../img/12.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-13 {
+  background-image: url(../img/13.png); }
+
+.pogo.pokemon-13.mask, .pogo.pokemon-13.shadow {
+  -webkit-mask: url(../img/13.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-14 {
+  background-image: url(../img/14.png); }
+
+.pogo.pokemon-14.mask, .pogo.pokemon-14.shadow {
+  -webkit-mask: url(../img/14.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-15 {
+  background-image: url(../img/15.png); }
+
+.pogo.pokemon-15.mask, .pogo.pokemon-15.shadow {
+  -webkit-mask: url(../img/15.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-16 {
+  background-image: url(../img/16.png); }
+
+.pogo.pokemon-16.mask, .pogo.pokemon-16.shadow {
+  -webkit-mask: url(../img/16.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-17 {
+  background-image: url(../img/17.png); }
+
+.pogo.pokemon-17.mask, .pogo.pokemon-17.shadow {
+  -webkit-mask: url(../img/17.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-18 {
+  background-image: url(../img/18.png); }
+
+.pogo.pokemon-18.mask, .pogo.pokemon-18.shadow {
+  -webkit-mask: url(../img/18.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-19 {
+  background-image: url(../img/19.png); }
+
+.pogo.pokemon-19.mask, .pogo.pokemon-19.shadow {
+  -webkit-mask: url(../img/19.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-20 {
+  background-image: url(../img/20.png); }
+
+.pogo.pokemon-20.mask, .pogo.pokemon-20.shadow {
+  -webkit-mask: url(../img/20.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-21 {
+  background-image: url(../img/21.png); }
+
+.pogo.pokemon-21.mask, .pogo.pokemon-21.shadow {
+  -webkit-mask: url(../img/21.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-22 {
+  background-image: url(../img/22.png); }
+
+.pogo.pokemon-22.mask, .pogo.pokemon-22.shadow {
+  -webkit-mask: url(../img/22.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-23 {
+  background-image: url(../img/23.png); }
+
+.pogo.pokemon-23.mask, .pogo.pokemon-23.shadow {
+  -webkit-mask: url(../img/23.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-24 {
+  background-image: url(../img/24.png); }
+
+.pogo.pokemon-24.mask, .pogo.pokemon-24.shadow {
+  -webkit-mask: url(../img/24.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-25 {
+  background-image: url(../img/25.png); }
+
+.pogo.pokemon-25.mask, .pogo.pokemon-25.shadow {
+  -webkit-mask: url(../img/25.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-26 {
+  background-image: url(../img/26.png); }
+
+.pogo.pokemon-26.mask, .pogo.pokemon-26.shadow {
+  -webkit-mask: url(../img/26.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-27 {
+  background-image: url(../img/27.png); }
+
+.pogo.pokemon-27.mask, .pogo.pokemon-27.shadow {
+  -webkit-mask: url(../img/27.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-28 {
+  background-image: url(../img/28.png); }
+
+.pogo.pokemon-28.mask, .pogo.pokemon-28.shadow {
+  -webkit-mask: url(../img/28.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-29 {
+  background-image: url(../img/29.png); }
+
+.pogo.pokemon-29.mask, .pogo.pokemon-29.shadow {
+  -webkit-mask: url(../img/29.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-30 {
+  background-image: url(../img/30.png); }
+
+.pogo.pokemon-30.mask, .pogo.pokemon-30.shadow {
+  -webkit-mask: url(../img/30.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-31 {
+  background-image: url(../img/31.png); }
+
+.pogo.pokemon-31.mask, .pogo.pokemon-31.shadow {
+  -webkit-mask: url(../img/31.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-32 {
+  background-image: url(../img/32.png); }
+
+.pogo.pokemon-32.mask, .pogo.pokemon-32.shadow {
+  -webkit-mask: url(../img/32.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-33 {
+  background-image: url(../img/33.png); }
+
+.pogo.pokemon-33.mask, .pogo.pokemon-33.shadow {
+  -webkit-mask: url(../img/33.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-34 {
+  background-image: url(../img/34.png); }
+
+.pogo.pokemon-34.mask, .pogo.pokemon-34.shadow {
+  -webkit-mask: url(../img/34.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-35 {
+  background-image: url(../img/35.png); }
+
+.pogo.pokemon-35.mask, .pogo.pokemon-35.shadow {
+  -webkit-mask: url(../img/35.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-36 {
+  background-image: url(../img/36.png); }
+
+.pogo.pokemon-36.mask, .pogo.pokemon-36.shadow {
+  -webkit-mask: url(../img/36.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-37 {
+  background-image: url(../img/37.png); }
+
+.pogo.pokemon-37.mask, .pogo.pokemon-37.shadow {
+  -webkit-mask: url(../img/37.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-38 {
+  background-image: url(../img/38.png); }
+
+.pogo.pokemon-38.mask, .pogo.pokemon-38.shadow {
+  -webkit-mask: url(../img/38.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-39 {
+  background-image: url(../img/39.png); }
+
+.pogo.pokemon-39.mask, .pogo.pokemon-39.shadow {
+  -webkit-mask: url(../img/39.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-40 {
+  background-image: url(../img/40.png); }
+
+.pogo.pokemon-40.mask, .pogo.pokemon-40.shadow {
+  -webkit-mask: url(../img/40.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-41 {
+  background-image: url(../img/41.png); }
+
+.pogo.pokemon-41.mask, .pogo.pokemon-41.shadow {
+  -webkit-mask: url(../img/41.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-42 {
+  background-image: url(../img/42.png); }
+
+.pogo.pokemon-42.mask, .pogo.pokemon-42.shadow {
+  -webkit-mask: url(../img/42.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-43 {
+  background-image: url(../img/43.png); }
+
+.pogo.pokemon-43.mask, .pogo.pokemon-43.shadow {
+  -webkit-mask: url(../img/43.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-44 {
+  background-image: url(../img/44.png); }
+
+.pogo.pokemon-44.mask, .pogo.pokemon-44.shadow {
+  -webkit-mask: url(../img/44.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-45 {
+  background-image: url(../img/45.png); }
+
+.pogo.pokemon-45.mask, .pogo.pokemon-45.shadow {
+  -webkit-mask: url(../img/45.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-46 {
+  background-image: url(../img/46.png); }
+
+.pogo.pokemon-46.mask, .pogo.pokemon-46.shadow {
+  -webkit-mask: url(../img/46.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-47 {
+  background-image: url(../img/47.png); }
+
+.pogo.pokemon-47.mask, .pogo.pokemon-47.shadow {
+  -webkit-mask: url(../img/47.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-48 {
+  background-image: url(../img/48.png); }
+
+.pogo.pokemon-48.mask, .pogo.pokemon-48.shadow {
+  -webkit-mask: url(../img/48.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-49 {
+  background-image: url(../img/49.png); }
+
+.pogo.pokemon-49.mask, .pogo.pokemon-49.shadow {
+  -webkit-mask: url(../img/49.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-50 {
+  background-image: url(../img/50.png); }
+
+.pogo.pokemon-50.mask, .pogo.pokemon-50.shadow {
+  -webkit-mask: url(../img/50.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-51 {
+  background-image: url(../img/51.png); }
+
+.pogo.pokemon-51.mask, .pogo.pokemon-51.shadow {
+  -webkit-mask: url(../img/51.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-52 {
+  background-image: url(../img/52.png); }
+
+.pogo.pokemon-52.mask, .pogo.pokemon-52.shadow {
+  -webkit-mask: url(../img/52.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-53 {
+  background-image: url(../img/53.png); }
+
+.pogo.pokemon-53.mask, .pogo.pokemon-53.shadow {
+  -webkit-mask: url(../img/53.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-54 {
+  background-image: url(../img/54.png); }
+
+.pogo.pokemon-54.mask, .pogo.pokemon-54.shadow {
+  -webkit-mask: url(../img/54.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-55 {
+  background-image: url(../img/55.png); }
+
+.pogo.pokemon-55.mask, .pogo.pokemon-55.shadow {
+  -webkit-mask: url(../img/55.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-56 {
+  background-image: url(../img/56.png); }
+
+.pogo.pokemon-56.mask, .pogo.pokemon-56.shadow {
+  -webkit-mask: url(../img/56.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-57 {
+  background-image: url(../img/57.png); }
+
+.pogo.pokemon-57.mask, .pogo.pokemon-57.shadow {
+  -webkit-mask: url(../img/57.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-58 {
+  background-image: url(../img/58.png); }
+
+.pogo.pokemon-58.mask, .pogo.pokemon-58.shadow {
+  -webkit-mask: url(../img/58.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-59 {
+  background-image: url(../img/59.png); }
+
+.pogo.pokemon-59.mask, .pogo.pokemon-59.shadow {
+  -webkit-mask: url(../img/59.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-60 {
+  background-image: url(../img/60.png); }
+
+.pogo.pokemon-60.mask, .pogo.pokemon-60.shadow {
+  -webkit-mask: url(../img/60.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-61 {
+  background-image: url(../img/61.png); }
+
+.pogo.pokemon-61.mask, .pogo.pokemon-61.shadow {
+  -webkit-mask: url(../img/61.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-62 {
+  background-image: url(../img/62.png); }
+
+.pogo.pokemon-62.mask, .pogo.pokemon-62.shadow {
+  -webkit-mask: url(../img/62.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-63 {
+  background-image: url(../img/63.png); }
+
+.pogo.pokemon-63.mask, .pogo.pokemon-63.shadow {
+  -webkit-mask: url(../img/63.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-64 {
+  background-image: url(../img/64.png); }
+
+.pogo.pokemon-64.mask, .pogo.pokemon-64.shadow {
+  -webkit-mask: url(../img/64.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-65 {
+  background-image: url(../img/65.png); }
+
+.pogo.pokemon-65.mask, .pogo.pokemon-65.shadow {
+  -webkit-mask: url(../img/65.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-66 {
+  background-image: url(../img/66.png); }
+
+.pogo.pokemon-66.mask, .pogo.pokemon-66.shadow {
+  -webkit-mask: url(../img/66.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-67 {
+  background-image: url(../img/67.png); }
+
+.pogo.pokemon-67.mask, .pogo.pokemon-67.shadow {
+  -webkit-mask: url(../img/67.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-68 {
+  background-image: url(../img/68.png); }
+
+.pogo.pokemon-68.mask, .pogo.pokemon-68.shadow {
+  -webkit-mask: url(../img/68.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-69 {
+  background-image: url(../img/69.png); }
+
+.pogo.pokemon-69.mask, .pogo.pokemon-69.shadow {
+  -webkit-mask: url(../img/69.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-70 {
+  background-image: url(../img/70.png); }
+
+.pogo.pokemon-70.mask, .pogo.pokemon-70.shadow {
+  -webkit-mask: url(../img/70.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-71 {
+  background-image: url(../img/71.png); }
+
+.pogo.pokemon-71.mask, .pogo.pokemon-71.shadow {
+  -webkit-mask: url(../img/71.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-72 {
+  background-image: url(../img/72.png); }
+
+.pogo.pokemon-72.mask, .pogo.pokemon-72.shadow {
+  -webkit-mask: url(../img/72.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-73 {
+  background-image: url(../img/73.png); }
+
+.pogo.pokemon-73.mask, .pogo.pokemon-73.shadow {
+  -webkit-mask: url(../img/73.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-74 {
+  background-image: url(../img/74.png); }
+
+.pogo.pokemon-74.mask, .pogo.pokemon-74.shadow {
+  -webkit-mask: url(../img/74.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-75 {
+  background-image: url(../img/75.png); }
+
+.pogo.pokemon-75.mask, .pogo.pokemon-75.shadow {
+  -webkit-mask: url(../img/75.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-76 {
+  background-image: url(../img/76.png); }
+
+.pogo.pokemon-76.mask, .pogo.pokemon-76.shadow {
+  -webkit-mask: url(../img/76.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-77 {
+  background-image: url(../img/77.png); }
+
+.pogo.pokemon-77.mask, .pogo.pokemon-77.shadow {
+  -webkit-mask: url(../img/77.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-78 {
+  background-image: url(../img/78.png); }
+
+.pogo.pokemon-78.mask, .pogo.pokemon-78.shadow {
+  -webkit-mask: url(../img/78.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-79 {
+  background-image: url(../img/79.png); }
+
+.pogo.pokemon-79.mask, .pogo.pokemon-79.shadow {
+  -webkit-mask: url(../img/79.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-80 {
+  background-image: url(../img/80.png); }
+
+.pogo.pokemon-80.mask, .pogo.pokemon-80.shadow {
+  -webkit-mask: url(../img/80.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-81 {
+  background-image: url(../img/81.png); }
+
+.pogo.pokemon-81.mask, .pogo.pokemon-81.shadow {
+  -webkit-mask: url(../img/81.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-82 {
+  background-image: url(../img/82.png); }
+
+.pogo.pokemon-82.mask, .pogo.pokemon-82.shadow {
+  -webkit-mask: url(../img/82.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-83 {
+  background-image: url(../img/83.png); }
+
+.pogo.pokemon-83.mask, .pogo.pokemon-83.shadow {
+  -webkit-mask: url(../img/83.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-84 {
+  background-image: url(../img/84.png); }
+
+.pogo.pokemon-84.mask, .pogo.pokemon-84.shadow {
+  -webkit-mask: url(../img/84.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-85 {
+  background-image: url(../img/85.png); }
+
+.pogo.pokemon-85.mask, .pogo.pokemon-85.shadow {
+  -webkit-mask: url(../img/85.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-86 {
+  background-image: url(../img/86.png); }
+
+.pogo.pokemon-86.mask, .pogo.pokemon-86.shadow {
+  -webkit-mask: url(../img/86.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-87 {
+  background-image: url(../img/87.png); }
+
+.pogo.pokemon-87.mask, .pogo.pokemon-87.shadow {
+  -webkit-mask: url(../img/87.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-88 {
+  background-image: url(../img/88.png); }
+
+.pogo.pokemon-88.mask, .pogo.pokemon-88.shadow {
+  -webkit-mask: url(../img/88.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-89 {
+  background-image: url(../img/89.png); }
+
+.pogo.pokemon-89.mask, .pogo.pokemon-89.shadow {
+  -webkit-mask: url(../img/89.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-90 {
+  background-image: url(../img/90.png); }
+
+.pogo.pokemon-90.mask, .pogo.pokemon-90.shadow {
+  -webkit-mask: url(../img/90.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-91 {
+  background-image: url(../img/91.png); }
+
+.pogo.pokemon-91.mask, .pogo.pokemon-91.shadow {
+  -webkit-mask: url(../img/91.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-92 {
+  background-image: url(../img/92.png); }
+
+.pogo.pokemon-92.mask, .pogo.pokemon-92.shadow {
+  -webkit-mask: url(../img/92.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-93 {
+  background-image: url(../img/93.png); }
+
+.pogo.pokemon-93.mask, .pogo.pokemon-93.shadow {
+  -webkit-mask: url(../img/93.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-94 {
+  background-image: url(../img/94.png); }
+
+.pogo.pokemon-94.mask, .pogo.pokemon-94.shadow {
+  -webkit-mask: url(../img/94.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-95 {
+  background-image: url(../img/95.png); }
+
+.pogo.pokemon-95.mask, .pogo.pokemon-95.shadow {
+  -webkit-mask: url(../img/95.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-96 {
+  background-image: url(../img/96.png); }
+
+.pogo.pokemon-96.mask, .pogo.pokemon-96.shadow {
+  -webkit-mask: url(../img/96.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-97 {
+  background-image: url(../img/97.png); }
+
+.pogo.pokemon-97.mask, .pogo.pokemon-97.shadow {
+  -webkit-mask: url(../img/97.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-98 {
+  background-image: url(../img/98.png); }
+
+.pogo.pokemon-98.mask, .pogo.pokemon-98.shadow {
+  -webkit-mask: url(../img/98.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-99 {
+  background-image: url(../img/99.png); }
+
+.pogo.pokemon-99.mask, .pogo.pokemon-99.shadow {
+  -webkit-mask: url(../img/99.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-100 {
+  background-image: url(../img/100.png); }
+
+.pogo.pokemon-100.mask, .pogo.pokemon-100.shadow {
+  -webkit-mask: url(../img/100.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-101 {
+  background-image: url(../img/101.png); }
+
+.pogo.pokemon-101.mask, .pogo.pokemon-101.shadow {
+  -webkit-mask: url(../img/101.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-102 {
+  background-image: url(../img/102.png); }
+
+.pogo.pokemon-102.mask, .pogo.pokemon-102.shadow {
+  -webkit-mask: url(../img/102.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-103 {
+  background-image: url(../img/103.png); }
+
+.pogo.pokemon-103.mask, .pogo.pokemon-103.shadow {
+  -webkit-mask: url(../img/103.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-104 {
+  background-image: url(../img/104.png); }
+
+.pogo.pokemon-104.mask, .pogo.pokemon-104.shadow {
+  -webkit-mask: url(../img/104.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-105 {
+  background-image: url(../img/105.png); }
+
+.pogo.pokemon-105.mask, .pogo.pokemon-105.shadow {
+  -webkit-mask: url(../img/105.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-106 {
+  background-image: url(../img/106.png); }
+
+.pogo.pokemon-106.mask, .pogo.pokemon-106.shadow {
+  -webkit-mask: url(../img/106.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-107 {
+  background-image: url(../img/107.png); }
+
+.pogo.pokemon-107.mask, .pogo.pokemon-107.shadow {
+  -webkit-mask: url(../img/107.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-108 {
+  background-image: url(../img/108.png); }
+
+.pogo.pokemon-108.mask, .pogo.pokemon-108.shadow {
+  -webkit-mask: url(../img/108.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-109 {
+  background-image: url(../img/109.png); }
+
+.pogo.pokemon-109.mask, .pogo.pokemon-109.shadow {
+  -webkit-mask: url(../img/109.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-110 {
+  background-image: url(../img/110.png); }
+
+.pogo.pokemon-110.mask, .pogo.pokemon-110.shadow {
+  -webkit-mask: url(../img/110.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-111 {
+  background-image: url(../img/111.png); }
+
+.pogo.pokemon-111.mask, .pogo.pokemon-111.shadow {
+  -webkit-mask: url(../img/111.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-112 {
+  background-image: url(../img/112.png); }
+
+.pogo.pokemon-112.mask, .pogo.pokemon-112.shadow {
+  -webkit-mask: url(../img/112.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-113 {
+  background-image: url(../img/113.png); }
+
+.pogo.pokemon-113.mask, .pogo.pokemon-113.shadow {
+  -webkit-mask: url(../img/113.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-114 {
+  background-image: url(../img/114.png); }
+
+.pogo.pokemon-114.mask, .pogo.pokemon-114.shadow {
+  -webkit-mask: url(../img/114.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-115 {
+  background-image: url(../img/115.png); }
+
+.pogo.pokemon-115.mask, .pogo.pokemon-115.shadow {
+  -webkit-mask: url(../img/115.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-116 {
+  background-image: url(../img/116.png); }
+
+.pogo.pokemon-116.mask, .pogo.pokemon-116.shadow {
+  -webkit-mask: url(../img/116.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-117 {
+  background-image: url(../img/117.png); }
+
+.pogo.pokemon-117.mask, .pogo.pokemon-117.shadow {
+  -webkit-mask: url(../img/117.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-118 {
+  background-image: url(../img/118.png); }
+
+.pogo.pokemon-118.mask, .pogo.pokemon-118.shadow {
+  -webkit-mask: url(../img/118.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-119 {
+  background-image: url(../img/119.png); }
+
+.pogo.pokemon-119.mask, .pogo.pokemon-119.shadow {
+  -webkit-mask: url(../img/119.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-120 {
+  background-image: url(../img/120.png); }
+
+.pogo.pokemon-120.mask, .pogo.pokemon-120.shadow {
+  -webkit-mask: url(../img/120.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-121 {
+  background-image: url(../img/121.png); }
+
+.pogo.pokemon-121.mask, .pogo.pokemon-121.shadow {
+  -webkit-mask: url(../img/121.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-122 {
+  background-image: url(../img/122.png); }
+
+.pogo.pokemon-122.mask, .pogo.pokemon-122.shadow {
+  -webkit-mask: url(../img/122.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-123 {
+  background-image: url(../img/123.png); }
+
+.pogo.pokemon-123.mask, .pogo.pokemon-123.shadow {
+  -webkit-mask: url(../img/123.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-124 {
+  background-image: url(../img/124.png); }
+
+.pogo.pokemon-124.mask, .pogo.pokemon-124.shadow {
+  -webkit-mask: url(../img/124.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-125 {
+  background-image: url(../img/125.png); }
+
+.pogo.pokemon-125.mask, .pogo.pokemon-125.shadow {
+  -webkit-mask: url(../img/125.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-126 {
+  background-image: url(../img/126.png); }
+
+.pogo.pokemon-126.mask, .pogo.pokemon-126.shadow {
+  -webkit-mask: url(../img/126.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-127 {
+  background-image: url(../img/127.png); }
+
+.pogo.pokemon-127.mask, .pogo.pokemon-127.shadow {
+  -webkit-mask: url(../img/127.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-128 {
+  background-image: url(../img/128.png); }
+
+.pogo.pokemon-128.mask, .pogo.pokemon-128.shadow {
+  -webkit-mask: url(../img/128.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-129 {
+  background-image: url(../img/129.png); }
+
+.pogo.pokemon-129.mask, .pogo.pokemon-129.shadow {
+  -webkit-mask: url(../img/129.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-130 {
+  background-image: url(../img/130.png); }
+
+.pogo.pokemon-130.mask, .pogo.pokemon-130.shadow {
+  -webkit-mask: url(../img/130.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-131 {
+  background-image: url(../img/131.png); }
+
+.pogo.pokemon-131.mask, .pogo.pokemon-131.shadow {
+  -webkit-mask: url(../img/131.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-132 {
+  background-image: url(../img/132.png); }
+
+.pogo.pokemon-132.mask, .pogo.pokemon-132.shadow {
+  -webkit-mask: url(../img/132.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-133 {
+  background-image: url(../img/133.png); }
+
+.pogo.pokemon-133.mask, .pogo.pokemon-133.shadow {
+  -webkit-mask: url(../img/133.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-134 {
+  background-image: url(../img/134.png); }
+
+.pogo.pokemon-134.mask, .pogo.pokemon-134.shadow {
+  -webkit-mask: url(../img/134.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-135 {
+  background-image: url(../img/135.png); }
+
+.pogo.pokemon-135.mask, .pogo.pokemon-135.shadow {
+  -webkit-mask: url(../img/135.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-136 {
+  background-image: url(../img/136.png); }
+
+.pogo.pokemon-136.mask, .pogo.pokemon-136.shadow {
+  -webkit-mask: url(../img/136.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-137 {
+  background-image: url(../img/137.png); }
+
+.pogo.pokemon-137.mask, .pogo.pokemon-137.shadow {
+  -webkit-mask: url(../img/137.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-138 {
+  background-image: url(../img/138.png); }
+
+.pogo.pokemon-138.mask, .pogo.pokemon-138.shadow {
+  -webkit-mask: url(../img/138.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-139 {
+  background-image: url(../img/139.png); }
+
+.pogo.pokemon-139.mask, .pogo.pokemon-139.shadow {
+  -webkit-mask: url(../img/139.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-140 {
+  background-image: url(../img/140.png); }
+
+.pogo.pokemon-140.mask, .pogo.pokemon-140.shadow {
+  -webkit-mask: url(../img/140.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-141 {
+  background-image: url(../img/141.png); }
+
+.pogo.pokemon-141.mask, .pogo.pokemon-141.shadow {
+  -webkit-mask: url(../img/141.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-142 {
+  background-image: url(../img/142.png); }
+
+.pogo.pokemon-142.mask, .pogo.pokemon-142.shadow {
+  -webkit-mask: url(../img/142.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-143 {
+  background-image: url(../img/143.png); }
+
+.pogo.pokemon-143.mask, .pogo.pokemon-143.shadow {
+  -webkit-mask: url(../img/143.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-144 {
+  background-image: url(../img/144.png); }
+
+.pogo.pokemon-144.mask, .pogo.pokemon-144.shadow {
+  -webkit-mask: url(../img/144.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-145 {
+  background-image: url(../img/145.png); }
+
+.pogo.pokemon-145.mask, .pogo.pokemon-145.shadow {
+  -webkit-mask: url(../img/145.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-146 {
+  background-image: url(../img/146.png); }
+
+.pogo.pokemon-146.mask, .pogo.pokemon-146.shadow {
+  -webkit-mask: url(../img/146.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-147 {
+  background-image: url(../img/147.png); }
+
+.pogo.pokemon-147.mask, .pogo.pokemon-147.shadow {
+  -webkit-mask: url(../img/147.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-148 {
+  background-image: url(../img/148.png); }
+
+.pogo.pokemon-148.mask, .pogo.pokemon-148.shadow {
+  -webkit-mask: url(../img/148.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-149 {
+  background-image: url(../img/149.png); }
+
+.pogo.pokemon-149.mask, .pogo.pokemon-149.shadow {
+  -webkit-mask: url(../img/149.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-150 {
+  background-image: url(../img/150.png); }
+
+.pogo.pokemon-150.mask, .pogo.pokemon-150.shadow {
+  -webkit-mask: url(../img/150.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.pokemon-151 {
+  background-image: url(../img/151.png); }
+
+.pogo.pokemon-151.mask, .pogo.pokemon-151.shadow {
+  -webkit-mask: url(../img/151.png) center center;
+  -webkit-mask-size: contain;
+  -webkit-mask-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.25); }
+
+.pogo.mask, .pogo.shadow {
+  background-image: none; }
+
+.pogo {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: contain;
+  width: 64px;
+  height: 64px; }
+
+.pogo-xs {
+  width: 16px;
+  height: 16px; }
+
+.pogo-s {
+  width: 32px;
+  height: 32px; }
+
+.pogo-m {
+  width: 64px;
+  height: 64px; }
+
+.pogo-l {
+  width: 128px;
+  height: 128px; }
+
+.pogo-xl {
+  width: 256px;
+  height: 256px; }
+
+.pogo-xxl {
+  width: 512px;
+  height: 512px; }
 
 /*# sourceMappingURL=PoGO-Awesome.1.0.0.css.map */
