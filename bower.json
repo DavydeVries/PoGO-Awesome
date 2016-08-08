@@ -1,14 +1,29 @@
 {
   "name": "pogo-awesome",
-  "description": "PoGO-Awesome",
-  "keywords": [],
+  "description": "PoGO-Awesome is similar to Font-Awesome. With this CSS library you can easily show Pokemons or Pokemons shadows.",
+  "keywords": [
+    "pokemon",
+    "pokemon-go",
+    "pogo",
+    "font-awesome"
+  ],
   "homepage": "https://github.com/DavydeVries/PoGO-Awesome/",
   "dependencies": {},
   "devDependencies": {},
-  "license": ["APACHE 2"],
+  "license": [
+    "Apache-2.0"
+  ],
   "main": [
     "scss/PoGO-Awesome.scss"
   ],
   "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "authors": [
+    "Davy de Vries"
   ]
 }
