@@ -1,0 +1,14 @@
+{
+  "name": "pogo-awesome",
+  "description": "PoGO-Awesome",
+  "keywords": [],
+  "homepage": "https://github.com/DavydeVries/PoGO-Awesome/",
+  "dependencies": {},
+  "devDependencies": {},
+  "license": ["APACHE 2"],
+  "main": [
+    "scss/PoGO-Awesome.scss"
+  ],
+  "ignore": [
+  ]
+}
